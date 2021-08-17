@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Luca de Martino
+Hi, I’m Luca de Martino! 👋
+
 - 👀 I’m interested in Artificial Intelligence, Formula 1 and Soccer 
 - 🌱 I’m currently learning Artificial Intelligence theory
 
